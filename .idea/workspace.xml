@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7092865b-e97d-4c41-b723-08ec6d730603" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-    </list>
+    <list default="true" id="7092865b-e97d-4c41-b723-08ec6d730603" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,16 +69,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Completed Module" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed Module" />
+    <MESSAGE value="Reading Keyboard Input" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reading Keyboard Input" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
-    <state x="495" y="99" key="CommitChangelistDialog2" timestamp="1598886536388">
+    <state x="495" y="99" key="CommitChangelistDialog2" timestamp="1598892703897">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="495" y="99" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1598886536388" />
+    <state x="495" y="99" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1598892703897" />
     <state width="1556" height="227" key="GridCell.Tab.0.bottom" timestamp="1598886491940">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
